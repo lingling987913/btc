@@ -21,7 +21,7 @@ plt.rcParams['axes.unicode_minus'] = False  # 用来正常显示负号
 
 chat_box = ChatBox(
     assistant_avatar=os.path.join(
-        "BTC/img",
+        "img",
         "chatchat_icon_blue_square_v2.png"
     )
 )
